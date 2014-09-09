@@ -1,0 +1,3 @@
+[submodule "subdomains/webapp/steam-weeklong-deals"]
+	path = subdomains/webapp/steam-weeklong-deals
+	url = git@github.com:Skylark95/steam-weeklong-deals.git
